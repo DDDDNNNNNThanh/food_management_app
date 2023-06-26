@@ -47,7 +47,7 @@ This app will help you discover food in the refrigerator and manage your shoppin
 
 ### User
 
-<img width="444" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/b49e782f-8096-411e-8317-952db1716f18">
+<img width="500" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/b49e782f-8096-411e-8317-952db1716f18">
 
 <img width="817" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/75d6654a-9ceb-4f14-ac4f-f13f2d6e9868">
 
@@ -86,10 +86,10 @@ This app will help you discover food in the refrigerator and manage your shoppin
 ---
 ## CODE EXPLAIN
 ### Library
-<img width="400" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/aa938f33-2aaa-4eab-95d0-81b6430566df">
+<img width="500" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/aa938f33-2aaa-4eab-95d0-81b6430566df">
 
 ### Structure
-<img width="400" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/1786a838-84b1-429d-85ba-1f80b3fc3109">
+<img width="500" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/1786a838-84b1-429d-85ba-1f80b3fc3109">
 
 ### Code Explaining
 <img width="500" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/eb3e6510-bf43-4964-bf50-fb911751a56a">
