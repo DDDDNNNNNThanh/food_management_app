@@ -79,7 +79,7 @@ This app will help you discover food in the refrigerator and manage your shoppin
 
 ---
 
-## Data for ingredients
+## DATA FOR INGREDIENTS
 
 <img width="597" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/4662d2e1-c6b2-4a6c-adac-3981e4682caf">
 
