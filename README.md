@@ -37,6 +37,7 @@ This app will help you discover food in the refrigerator and manage your shoppin
 --- 
 ## MECHANIC OF THE PROJECT
 <img width="600" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/5aa9e8c1-24b3-49e0-bf94-cf7446b1626a">
+
 ---
 ## CODE EXPLAIN
 ### Library
