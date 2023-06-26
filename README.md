@@ -1,5 +1,8 @@
-# FOOD MANAGEMENT APP
+<img width="597" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/46603e3f-2be7-4ee8-a091-b52fffd54cb1"># FOOD MANAGEMENT APP
 This is a project that my group ( Group 8 ) in Python class has done for our project.
+
+Slide presentation: https://docs.google.com/presentation/d/1VKGaRsRRwMiAZZ72weCXLXTOzrP78V5e/edit?usp=sharing&ouid=100132529652268659037&rtpof=true&sd=true
+
 This app is about: 
 
 * Food management.
