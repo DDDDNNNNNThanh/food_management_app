@@ -41,9 +41,19 @@ This app will help you discover food in the refrigerator and manage your shoppin
 ---
 ## CODE EXPLAIN
 ### Library
-<img width="600" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/aa938f33-2aaa-4eab-95d0-81b6430566df">
+<img width="400" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/aa938f33-2aaa-4eab-95d0-81b6430566df">
 
+### Structure
+<img width="400" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/1786a838-84b1-429d-85ba-1f80b3fc3109">
 
+### Code Explaining
+<img width="500" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/eb3e6510-bf43-4964-bf50-fb911751a56a">
+
+### Multimedia
+<img width="500" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/5033deb0-09ac-4d4c-87de-e4933b7130de">
+
+### Predicted Reach
+<img width="500" alt="image" src="https://github.com/DDDDNNNNNThanh/food_management_app/assets/110702728/f7bea139-38e7-4911-b07b-92d650218acf">
 
 
 
